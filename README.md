@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
 <h3 align="center">A passionate frontend developer from Warsaw, Poland</h3>
 
-- 👨‍💻 All of my projects are available at [https://abrzezinski.pl/](https://abrzezinski.pl/)
+- 👨‍💻 All of my projects are available at [abrzezinski.pl](https://abrzezinski.pl/)
 
 - 📫 How to reach me **kontakt@abrzezinski.pl**
 
