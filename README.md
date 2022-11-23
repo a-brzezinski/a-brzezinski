@@ -13,6 +13,7 @@
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-DCEC23?style=flat-square&logo=javascript&logoColor=black" />
     <img alt="Vite" src="https://img.shields.io/badge/-Vite-646cff?style=flat-square&logo=vite&logoColor=white" />
     <img alt="Scss" src="https://img.shields.io/badge/-Scss-CC6699?style=flat-square&logo=sass&logoColor=white" />
+    <img alt="Chakra" src="https://img.shields.io/badge/-chakra-19795?style=flat-square&logo=chakraui&logoColor=white" />
     <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
     <img alt="Css Modules" src="https://img.shields.io/badge/-CSS Modules-264de4?style=flat-square&logo=css3&logoColor=white" />
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
