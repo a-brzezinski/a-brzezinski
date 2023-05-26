@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
-<h3 align="center">A passionate frontend developer from Warsaw, Poland <img src="https://cdn-icons-png.flaticon.com/512/197/197529.png" width="13"/></h3>
+<h3 align="center">A passionate React Developer from Warsaw, Poland <img src="https://cdn-icons-png.flaticon.com/512/197/197529.png" width="13"/></h3>
 
 - 📫 How to reach me **kontakt@abrzezinski.pl**
 - 💻 My [Website](https://abrzezinski.pl/)
@@ -15,7 +15,7 @@
     <img alt="npm" src="https://img.shields.io/badge/-React%20Router-CA4245?style=flat-square&logo=react-router&logoColor=white" />
     <img alt="Scss" src="https://img.shields.io/badge/-Scss-CC6699?style=flat-square&logo=sass&logoColor=white" />
     <img alt="Chakra" src="https://img.shields.io/badge/-chakra-19795?style=flat-square&logo=chakraui&logoColor=white" />
-    <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+    <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
     <img alt="Css Modules" src="https://img.shields.io/badge/-CSS Modules-264de4?style=flat-square&logo=css3&logoColor=white" />
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
     <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
