@@ -16,8 +16,8 @@
     <img alt="Scss" src="https://img.shields.io/badge/-Scss-CC6699?style=flat-square&logo=sass&logoColor=white" />
     <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
     <img alt="Chakra" src="https://img.shields.io/badge/-chakra-19795?style=flat-square&logo=chakraui&logoColor=white" />
-    <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
     <img alt="Css Modules" src="https://img.shields.io/badge/-CSS Modules-264de4?style=flat-square&logo=css3&logoColor=white" />
+    <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
     <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
     <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
