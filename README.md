@@ -18,9 +18,10 @@
     <img alt="React Router" src="https://img.shields.io/badge/-React%20Router-CA4245?style=flat-square&logo=react-router&logoColor=white" />
     <img alt="Redux" src="https://img.shields.io/badge/-Redux%20&%20RTK-764ABC?style=flat-square&logo=redux&logoColor=white" />
     <img alt="Zustand" src="https://img.shields.io/badge/-Zustand-edb73f?style=flat-square&logo=zustand&logoColor=white" />
-    <img alt="Scss" src="https://img.shields.io/badge/-Scss-CC6699?style=flat-square&logo=sass&logoColor=white" />
+    <img alt="shadcn/ui" src="https://img.shields.io/badge/-shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white" />
     <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
     <img alt="Chakra" src="https://img.shields.io/badge/-chakra-19795?style=flat-square&logo=chakraui&logoColor=white" />
+    <img alt="Scss" src="https://img.shields.io/badge/-Scss-CC6699?style=flat-square&logo=sass&logoColor=white" />
     <img alt="Css Modules" src="https://img.shields.io/badge/-CSS Modules-264de4?style=flat-square&logo=css3&logoColor=white" />
     <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
