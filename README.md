@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer from Warsaw <img src="https://cdn-icons-png.flaticon.com/512/197/197529.png" width="13"/></h3>
 
 - 📫 How to reach me **adr.brzezinski@gmail.com**
-- 💻 My [Website](https://abrzezinski.pl/)
+- 💻 My [Website](https://abrzezinski.com/)
 
 <h3 align="left">Languages and Tools:</h3>
   <p align="left"> </a>
