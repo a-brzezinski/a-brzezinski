@@ -24,6 +24,10 @@
   <img alt="SCSS" src="https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="CSS Modules" src="https://img.shields.io/badge/-CSS Modules-264de4?style=flat-square&logo=css3&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img alt="RestAPI" src="https://img.shields.io/badge/-REST API-E10098?style=flat-square&logo=restapi&logoColor=white" />
+  <img alt="Vitest" src="https://img.shields.io/badge/-Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
+  <img alt="Testing Library" src="https://img.shields.io/badge/-Testing%20Library-E33332?style=flat-square&logo=testing-library&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="React Query" src="https://img.shields.io/badge/-React Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
   <img alt="REST API" src="https://img.shields.io/badge/-REST API-005571?style=flat-square&logo=api&logoColor=white" />
