@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer from Warsaw 🇵🇱</h3>
 <p align="center">
   <a href="mailto:adr.brzezinski@gmail.com">Email</a> •
-  <a href="https://linkedin.com/in/a-brzezinski/">LinkedIn</a>
+  <a href="https://linkedin.com/in/a-brzezinski/" target="_blank">LinkedIn</a>
 </p>
 
 ---
