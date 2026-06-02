@@ -16,79 +16,59 @@
 
 ## 🧑‍💻 About me
 
-- ⚛️ Frontend Developer focused on React & Next.js
-- 🧠 Interested in clean UI, good DX and modern web architecture
-- 🤖 Exploring AI-powered web apps with Vercel AI SDK
-- 🛠️ I like building practical, polished and maintainable products
-
+- ⚛️ Frontend Developer focused on React, Next.js & TypeScript
+- 🤖 Building AI-powered applications with Vercel AI SDK
+- 🚀 Experience leading development projects from planning to delivery
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-### Core
+### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css" />
-</p>
+![React](https://skillicons.dev/icons?i=react)
+![Next](https://skillicons.dev/icons?i=nextjs)
+![TypeScript](https://skillicons.dev/icons?i=ts)
 
-### Styling & UI
+### Styling
 
-<p>
-  <img src="https://skillicons.dev/icons?i=tailwind,sass" />
-</p>
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![Sass](https://skillicons.dev/icons?i=sass)
 
-**Also using:** shadcn/ui, CSS Modules
+shadcn/ui
 
-### State, Data & Validation
+### State Management
 
-<p>
-  <img src="https://skillicons.dev/icons?i=redux,zustand,reactquery,prisma" />
-</p>
+![Redux](https://skillicons.dev/icons?i=redux)
 
-**Also using:** Zod, REST API
+Zustand
+
+### Backend & Data
+
+![Prisma](https://skillicons.dev/icons?i=prisma)
+
+Zod • REST API
 
 ### AI
 
-**Vercel AI SDK**
+Vercel AI SDK
 
-### Testing & Code Quality
+### Testing
 
-<p>
-  <img src="https://skillicons.dev/icons?i=vitest,eslint" />
-</p>
+![Vitest](https://skillicons.dev/icons?i=vitest)
 
-**Also using:** Testing Library
+Testing Library
 
-### Tools
+### DevOps & Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=vite,docker,github,gitlab,npm,vercel" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### Project Name
-Short description of the project.
-
-**Tech:** Next.js, TypeScript, Tailwind CSS, Prisma
-
-[Live Demo](#) • [Repository](#)
-
----
-
-### Project Name
-Short description of the project.
-
-**Tech:** React, TypeScript, Vite, Zustand
-
-[Live Demo](#) • [Repository](#)
+![Docker](https://skillicons.dev/icons?i=docker)
+![GitHub](https://skillicons.dev/icons?i=github)
+![GitLab](https://skillicons.dev/icons?i=gitlab)
+![Vercel](https://skillicons.dev/icons?i=vercel)
 
 ---
 
 ## 📫 Contact
 
 - Email: **adr.brzezinski@gmail.com**
-- Website: **TU_WSTAW_LINK_DO_STRONY**
-- LinkedIn: **TU_WSTAW_LINKEDIN**
+- Website: **website**
+- LinkedIn: **linkedin**
