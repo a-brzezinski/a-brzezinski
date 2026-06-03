@@ -51,6 +51,7 @@
 <p>
   <img alt="Vitest" src="https://img.shields.io/badge/-Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
   <img alt="Testing Library" src="https://img.shields.io/badge/-Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white" />
+  <img alt="Playwright" src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
 </p>
 
 ### DevOps & Tools
