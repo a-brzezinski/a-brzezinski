@@ -30,9 +30,7 @@
 ### Styling & UI
 <p>
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="shadcn/ui" src="https://img.shields.io/badge/-shadcn/ui-000000?style=flat-square" />
-  <img alt="CSS Modules" src="https://img.shields.io/badge/-CSS_Modules-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
 ### State & Data
